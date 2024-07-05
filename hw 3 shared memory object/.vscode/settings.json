@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "mmu.h": "c",
+        "stat.h": "c",
+        "param.h": "c",
+        "spinlock.h": "c",
+        "proc.h": "c",
+        "sleeplock.h": "c",
+        "buf.h": "c",
+        "fs.h": "c",
+        "array": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "vector": "c",
+        "string_view": "c",
+        "functional": "c",
+        "limits": "c",
+        "ostream": "c",
+        "streambuf": "c",
+        "tuple": "c",
+        "defs.h": "c",
+        "user.h": "c",
+        "types.h": "c",
+        "shm.h": "c",
+        "fcntl.h": "c",
+        "file.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
