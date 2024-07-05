@@ -4,7 +4,7 @@ Projects completed as part of an operating systems course at RAF.
 
 ## hw1 - Command History
 
-An extension for the xv6 operating system that adds a command history feature. The command history has a maximum length of 3 by default, but this can be modified to accommodate a longer history. Users can navigate through the command history using the Shift + Up (`⇧↑`) and Shift + Down (`⇧↓`) arrow keys.
+An extension for the xv6 operating system that adds a command history feature. The command history has a maximum length of 3 by default, but this can be modified to accommodate a longer history. Users can navigate through the command history using the Shift + Up (`↑`) and Shift + Down (`↓`) arrow keys.
 
 ## hw2 - Symbolic Links and Disk Usage
 
